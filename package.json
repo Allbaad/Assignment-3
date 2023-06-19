@@ -1,0 +1,13 @@
+{
+    "name": "web700-app",
+    "version": "1.0.0",
+    "description": "A web application for the WEB700 course",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "author": "Nikhil Kumar",
+    "license": "ISC"
+  }
+  
